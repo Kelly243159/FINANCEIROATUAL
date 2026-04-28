@@ -4,3 +4,4 @@ openpyxl>=3.1.0
 uvicorn>=0.30.0
 itsdangerous>=2.1.0
 python-multipart>=0.0.9
+streamlit>=1.30.0
